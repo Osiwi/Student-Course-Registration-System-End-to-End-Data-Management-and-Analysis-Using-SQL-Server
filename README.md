@@ -6,7 +6,7 @@ Designed and implemented a SQL-based Student Course Registration System featurin
 Student Course Registration System – End-to-End Data Management and Analysis Using SQL Server
 
 **SQL Code: **
-(Student Course Registration System.SQL)[https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server/blob/main/Student%20Course%20Registration%20System.SQL]
+(Student Course Registration System)[https://github.com/Osiwi/Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server/blob/main/Student%20Course%20Registration%20System.SQL]
 
 **SQL Skills Used:**
 JOIN, LEFT JOIN, GROUP BY, HAVING, CASE, EXISTS, NOT IN
