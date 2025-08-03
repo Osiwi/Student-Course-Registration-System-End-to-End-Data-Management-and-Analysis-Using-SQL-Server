@@ -1,0 +1,2 @@
+# Student-Course-Registration-System-End-to-End-Data-Management-and-Analysis-Using-SQL-Server
+Designed and implemented a SQL-based Student Course Registration System featuring data modeling, cleaning, GPA analysis, enrollment tracking, and prerequisite validation. Used advanced SQL techniques to ensure data integrity and generate insights through queries and views in a simulated academic environment.
